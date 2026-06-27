@@ -2,8 +2,7 @@
 
 Analysis of the Sample Superstore dataset to identify profit-draining product categories, test whether order fulfillment speed affects profitability, and uncover the real driver behind margin erosion — using SQL, Python, and Power BI.
 
-![Dashboard Screenshot](<img width="903" height="509" alt="Superstore Dashboard SS" src="https://github.com/user-attachments/assets/4378b357-5f23-4f12-a381-f32f9241f495" />
-)
+<img width="903" height="509" alt="Superstore Dashboard SS" src="https://github.com/user-attachments/assets/4378b357-5f23-4f12-a381-f32f9241f495" />
 
 ## Objective
 
